@@ -9,12 +9,3 @@ handlers:
 
 - url: /
   static_dir: www
-  upload: www
-
-- url: /css
-  static_dir: www/css
-  upload: www/css
-
-- url: /js
-  static_dir: www/js
-  upload: www/js
